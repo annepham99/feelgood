@@ -1,3 +1,5 @@
+/*THIS CODE WORKS!*/
+
 .ch-grid {
 	margin: 20px 0 0 0;
 	padding: 0;
@@ -47,6 +49,15 @@
 
 .ch-img-3 { 
 	background-image: url(forest3.jpg);
+}
+.ch-img-4 { 
+	background-image: url(ocean1.jpg);
+}
+.ch-img-5 { 
+	background-image: url(ocean2.jpg);
+}
+.ch-img-6 { 
+	background-image: url(ocean3.jpg);
 }
 
 .ch-info {
