@@ -18,7 +18,7 @@ p {
 }
 
 body {
-    background-image: url("opaque_forest2.jpg");
+    background-image: url("ocean2_opaque.jpg");
     background-color: #cccccc;
     
 }
@@ -26,5 +26,5 @@ body {
 p{
 	background-color: lightblue;
 	width: 500px;
-	height:500px;
+	height:810px;
 }
