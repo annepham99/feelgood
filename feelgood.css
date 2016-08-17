@@ -1,17 +1,27 @@
 .header {
-    color: white;
-    font-family: Questrial;
-    font-size: 35px;
-    background-color: pink;
+    color: lightblue;
+    font-family: "Questrial";
+    font-size: 55px;
+    /* background-color: pink; */
 }
 a{
     font-size: 20px;
 }
 
+#about{
+    text-align: center;
+    font-family: "Questrial";
+    color: rgb(61, 2, 42);
+    font-weight: bold;
+    background-color: lightgray;
+    font-size: 40px;
+    opacity: 0.5;
+}
+
 /* Dropdown Button */
 .dropbtn {
-    background-color: pink;
-    color: white;
+    background-color: white;
+    color: lightblue;
     /* padding: 6px; */
     font-size: 20px;
     border: none;
@@ -42,7 +52,7 @@ a{
 }
 
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: lightblue}
+.dropdown-content a:hover {background-color: rgb(223, 223, 223); }
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
@@ -51,5 +61,14 @@ a{
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {
-    background-color: lightblue;
+    background-color: rgb(223, 223, 223);
+}
+
+/* #wrapper .text {
+    position: absolute;
+    visibility:hidden;
+}
+
+#wrapper:hover .text {
+    visibility:visible;
 }
