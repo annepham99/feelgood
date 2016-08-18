@@ -39,20 +39,20 @@
 	transition: all 0.4s ease-in-out;
 }
 
+.ch-img-1 { 
+	background-image: url(water1.jpg);
+}
+
 .ch-img-2 { 
-	background-image: url(forest2.jpg);
+	background-image: url(permaculture.jpg);
 }
 
 .ch-img-3 { 
-	background-image: url(ocean2.jpg);
+	background-image: url(lyn.jpg);
 }
 
 .ch-img-4 { 
-	background-image: url(forest5.jpg);
-}
-
-.ch-img-6 { 
-	background-image: url(ocean3.jpg);
+	background-image: url(greenery1.jpg);
 }
 .ch-img-5 { 
 	background-image: url(ocean4.jpg);
@@ -109,11 +109,13 @@ a {
 		0 0 1px #fff, 
 		0 1px 2px rgba(0,0,0,0.3);
 	text-decoration: none;
+	text-align: center;
+	font-style: italic;
 }
 
 h2 {
 	font-family: 'Open Sans', Arial, sans-serif; 
-	font-size: 40px;
+	font-size: 38px;
 	
 	color : rgb(12, 49, 64);
 }

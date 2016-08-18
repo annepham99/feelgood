@@ -1,7 +1,7 @@
 p { 
 	font-family: Questrial;
     color: rgb(12, 49, 64);
-    font-size: 22px;
+    font-size: 20px;
     text-transform: uppercase;
 	letter-spacing: 2px;
 	margin: 100 30px;
@@ -18,7 +18,7 @@ p {
 }
 
 body {
-    background-image: url("forest5_opaque.jpg");
+    background-image: url("waterpouring.jpg");
     background-color: #cccccc;
     
 }
@@ -26,5 +26,5 @@ body {
 p{
 	background-color: lightblue;
 	width: 500px;
-	height:370px;
+	height:680px;
 }

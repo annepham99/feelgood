@@ -18,7 +18,7 @@ p {
 }
 
 body {
-    background-image: url("forest5_opaque.jpg");
+    background-image: url("permaculture_opaque.jpg");
     background-color: #cccccc;
     
 }
@@ -26,5 +26,5 @@ body {
 p{
 	background-color: lightblue;
 	width: 500px;
-	height:370px;
+	height:1000px;
 }
